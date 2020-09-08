@@ -1,3 +1,5 @@
+<img align="right" src="Shared/dxultimate64.png" />
+
 ## DxUltimate Sample: RichToolTip
 
 ### 1. Introduction 
