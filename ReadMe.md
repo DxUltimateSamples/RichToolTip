@@ -1,6 +1,6 @@
 <img align="right" src="Shared/dxultimate64.png" />
 
-## DxUltimate Sample: RichToolTip
+## DxUltimate Sample: RichText ToolTip for DevExpress 
 
 ### 1. Introduction 
 
